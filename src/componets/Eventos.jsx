@@ -15,6 +15,7 @@ function Eventos() {
           src="https://www.youtube.com/watch?v=-Oe19eqJc88"
           title="YouTube Video"
           frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
       </div>
